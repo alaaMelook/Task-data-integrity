@@ -46,9 +46,8 @@ This is a secure Flask-based API that implements user authentication with Two-Fa
     python -m venv venv
 
     source venv/bin/activate   # On Windows use: venv\Scripts\activate
-
-    pip install -r requirements.txt
-
+    
+  
 Set up MySQL database (update .env with credentials).
 
 
